@@ -30,9 +30,3 @@ Para rodar os testes, siga os passos abaixo:
     ```sh
     npx playwright test
     ```
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
-
